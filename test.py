@@ -2,11 +2,11 @@ import requests
 
 # 设置PandoraNext代理API的基本URL和你的API前缀
 base_url = "http://your-pandoranext-deployment.com/<your_api_prefix>"
-access_token = "fk-xxxx"
+share_token = "fk-xxxx"
 
 # 创建请求头部
 headers = {
-    "Authorization": f"Bearer {access_token}"
+    "Authorization": f"Bearer {share_token}"
 }
 
 # 设置聊天内容
