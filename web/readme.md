@@ -10,11 +10,11 @@
 pip install flask
 ```
 
-##保存代码
+## 保存代码
 
 将 app.py和index.html上传至服务器（或下载至本地）
 
-##运行 Flask 应用
+## 运行 Flask 应用
 
 在包含 app.py 的目录中，运行以下命令来启动 Flask 应用：
 
@@ -22,7 +22,7 @@ pip install flask
 python3 app.py
 ```
 
-##访问应用
+## 访问应用
 
 在浏览器中打开 http://127.0.0.1:5000。您应该能看到您的前端页面，并能够提交表单以获取 tokens。
 
