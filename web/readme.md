@@ -1,5 +1,7 @@
 ## 这里是web版本的部署，基于Flask
 
+## Demo: https://auth.kbfz.top/
+
 # 部署指南
 
 ## 安装 Flask
