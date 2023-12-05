@@ -1,6 +1,6 @@
 ## 这里是web版本的部署，基于Flask
 
-## Demo(自定URL版): https://auth.kbfz.top/
+## Demo(自定URL版): https://auth.vnbest.eu.org/
 
 # 部署指南
 
