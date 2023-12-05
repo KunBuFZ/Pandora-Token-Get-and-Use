@@ -5,3 +5,5 @@
 share.py 用于获取access token和share token；配合定时计划运行可实现 share token 长期有效
 
 test.py 是调用示例脚本
+
+## 新增web版，详见web目录下readme
