@@ -45,9 +45,9 @@ try:
     for idx, (username, password) in enumerate(accounts, 1):
         access_token = get_access_token(base_url, username, password)
         tokens[f'test-{idx}'] = access_token
-        print(f"Access Token for {username}: {access_token}")
+        print(f"Access Token for {username}: {access_token}")s
 
-    write_tokens('token.txt', tokens)
+    write_tokens('tokens.json', tokens)
 
 except Exception as e:
     print(str(e))
