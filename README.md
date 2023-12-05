@@ -1,6 +1,6 @@
 # Pandora-Token-Get-and-Use
 
-## script版
+## script版 (可获取access token,session token,share token。可自动生成tokens.json)
 
 本项目需要配合 Pandora_Next 使用，请确保您的Pandora_Next已经配置妥当
 
@@ -12,7 +12,7 @@ share.py 用于获取access token和share token；配合定时计划运行可实
 
 test.py 是调用示例脚本
 
-## web版
+## web版(可获取access token,share token)
 
 ### Demo(自定URL版): https://auth.vnbest.eu.org/
 
