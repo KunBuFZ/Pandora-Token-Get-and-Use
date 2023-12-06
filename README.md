@@ -1,6 +1,6 @@
 # Pandora-Token-Get-and-Use
 
-## 注意！所有涉及到登录的操作，消耗panduora额度为1:100 请小心使用！
+## 注意！所有涉及到登录的操作，消耗pandora额度为1:100 请小心使用！
 
 ## script版 (可获取access token,session token,share token。可自动生成tokens.json)
 
