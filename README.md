@@ -8,7 +8,7 @@
 
 tokens.py 利用账号密码获取时效更长的Session Token，并自动生成pandora_next所需的tokens.json (第二次生成时，需要清空tokens.json中的内容)
 
-需要创建account.txt 并按照 账号,密码 的格式一行一个
+需要创建account.txt 并按照 账号 密码 的格式一行一个
 
 share.py 用于获取access token和share token；配合定时计划运行可实现 share token 长期有效
 

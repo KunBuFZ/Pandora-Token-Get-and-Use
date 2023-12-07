@@ -21,8 +21,8 @@ def read_accounts(filename):
     accounts = []
     with open(filename, 'r') as file:
         for line in file:
-            if ',' in line:
-                username, password = line.strip().split(',')
+            if ' ' in line:
+                username, password = line.strip().split(' ')
                 accounts.append((username, password))
     return accounts
 
